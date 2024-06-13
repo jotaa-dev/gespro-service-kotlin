@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.api</groupId>
 	<artifactId>gespro-service-kotlin</artifactId>
-	<version>version-prod-1.0.0</version>
+	<version>version-desa-1.0.0</version>
 	<name>gespro-service-kotlin</name>
 	<description>Demo Api Service Kotlin</description>
 	<properties>
